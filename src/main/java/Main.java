@@ -6,5 +6,6 @@ public class Main {
     public static void main(String[] args){
         System.out.println("My first Git Example");
         System.out.println("My second Git Example");
+        System.out.println("My Thrird Git Example");
     }
 }
